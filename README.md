@@ -1,2 +1,2 @@
-# python-and-matlab-
+# python-and-matlab
 SSW/MD-NN trajectory
